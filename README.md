@@ -1,7 +1,7 @@
 # Python-Engine-Type-Recognition
 
 Gherman Sebastian-Costin
-    Politehnica University of Bucharest, CS 
+    Politehnica University of Bucharest, CS, 
     Deep Learning Algorithm to identify car engine types
     
     Based on the following article:
