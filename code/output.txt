@@ -1,0 +1,7 @@
+Running: BUILDING DATASET PHASE
+Finished: BUILDING DATASET PHASE
+Running: TESTING PHASE
+Testing predictions
+Diesel Successfully Prediction Rate: 100.00%
+Gasoline Successfully Prediction Rate: 95.56%
+Finished: TESTING PHASE
